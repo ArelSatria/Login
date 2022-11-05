@@ -1,0 +1,25 @@
+.ctrl {
+    background-color: aliceblue;
+    padding: 7px;
+    width: 300px;
+    border-bottom: 2px solid rgb(175, 175, 175);
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    margin-bottom: 10px;
+}
+
+.ctrl:focus {
+    border-bottom: 2px solid #14A44D;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+}
+
+.btn {
+    margin-left: 80px
+}
+
+.ck {
+    margin-left: 20px;
+}
