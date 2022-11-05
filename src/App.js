@@ -1,4 +1,4 @@
-git remote add origin https://github.com/ArelSatria/Form.gitimport { Container } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 import './style.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
